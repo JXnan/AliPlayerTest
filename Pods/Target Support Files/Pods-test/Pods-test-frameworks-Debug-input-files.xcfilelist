@@ -1,0 +1,18 @@
+${PODS_ROOT}/Target Support Files/Pods-test/Pods-test-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${PODS_ROOT}/AliPlayerSDK_iOS/AliyunPlayer.framework
+${PODS_ROOT}/AliPlayerSDK_iOS/alivcffmpeg.framework
+${PODS_ROOT}/AliPlayerSDK_iOS/AlivcConan.framework
+${PODS_ROOT}/AliPlayerSDK_iOS/AliyunMediaDownloader.framework
+${BUILT_PRODUCTS_DIR}/AliyunOSSiOS/AliyunOSSiOS.framework
+${PODS_ROOT}/AliyunVideoSDKStd/frameworks/AliyunVideoSDKPro.framework
+${BUILT_PRODUCTS_DIR}/FMDB/FMDB.framework
+${BUILT_PRODUCTS_DIR}/JSONModel/JSONModel.framework
+${BUILT_PRODUCTS_DIR}/LBXScan/LBXScan.framework
+${BUILT_PRODUCTS_DIR}/LXReorderableCollectionViewFlowLayout/LXReorderableCollectionViewFlowLayout.framework
+${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/MJExtension/MJExtension.framework
+${BUILT_PRODUCTS_DIR}/MJRefresh/MJRefresh.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/TTRangeSlider/TTRangeSlider.framework
+${BUILT_PRODUCTS_DIR}/ZipArchive/ZipArchive.framework
